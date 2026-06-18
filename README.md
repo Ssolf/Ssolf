@@ -1,11 +1,12 @@
 <h1 align="center">Hola👋, Soy Sole Fernández</h1>
-<h3 align="center">Soy Cocinera, reinventandose en el área TI</h3>
+<h3 align="center">Cocinera profesional con formación en el área TI</h3>
+<h3 align="center">Desarrollo FullStack Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssolf&label=Profile%20views&color=0e75b6&style=flat" alt="ssolf" /> </p>
 
 
 
-<h3 align="left">Conectémos:</h3>
+<h3 align="left">Contáctame</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soledad-stephanie-fern%c3%a1ndez-vega-8854809a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soledad-stephanie-fern%c3%a1ndez-vega-8854809a" height="30" width="40" /></a>
 <a href="https://instagram.com/ssol.fernandezv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssol.fernandezv" height="30" width="40" /></a>
